@@ -1,4 +1,4 @@
-# currency_converter_app
+# currency-converter-app
 
 A new Flutter project.
 
